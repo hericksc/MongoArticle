@@ -1,0 +1,22 @@
+.active {
+    color: #ee6e73;
+    font-weight: 300;
+  }
+  h1 {
+      font-size: 64px;
+      font-weight: bold;
+    text-align: center;
+    color: black;
+  }
+  h3 {
+    font-size: 32px;
+    font-weight: bold;
+  text-align: center;
+  color: black;
+  }
+  .btn {
+      margin-top: 20px;
+  }
+  .navbar {
+      background-color: lightblue;
+  }
